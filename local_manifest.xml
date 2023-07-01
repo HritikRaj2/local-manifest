@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/leeco/s2" name="HritikRaj2/android_device_leeco_s2-1.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/leeco/s2" name="HritikRaj2/android_vendor_leeco_s2.git" remote="github" revision="master" />
+ <project path="kernel/leeco/msm8976" name="HritikRaj2/android_kernel_leeco_msm8976.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
